@@ -8,6 +8,7 @@ $$
 
 
 equation for a spirograph with a z axis using the above renderer 
+
 $$
 g\left(\left(R_{s}-r_{s}\right)\sin\left(\frac{r_{s}t}{R_{s}}\right)+d_{s}\sin\left(\left(1-\frac{r_{s}}{R_{s}}\right)t\right),-\left(R_{s}-r_{s}\right)\cos\left(\frac{r_{s}t}{R_{s}}\right)+d_{s}\cos\left(\left(1-\frac{r_{s}}{R_{s}}\right)t\right),a_{mplitude}\cos\left(z_{s}t+s_{shift}\right)\right)
 $$
